@@ -1,0 +1,48 @@
+#EXTM3U
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV_Publica_Argentina.png", TV Pública Argentina
+https://stream.arcast.com.ar/tvpublica/ngrp:tvpublica_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Canal_26_logo.svg", Canal 26
+https://live-01-01-tn-01.vodgc.net/canal26/ngrp:canal26_all/playlist.m3u8
+
+#EXTINF:-1 group-title="México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/CanalOnce_logo.png", Canal Once
+https://live2.canaloncelive.tv/livepkgr2/smil:canalonce.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/ADN40_logo_2018.png", ADN 40
+https://live.adn40.mx/hls/live.m3u8
+
+#EXTINF:-1 group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/TVN_Logo.png", TVN Chile
+https://unlimited1-cl-isp.dps.live/tvn/tvn.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/RTVC_Señal_Colombia_logo_2019.svg", Señal Colombia
+https://streaming.rtvc.gov.co/RTVCPlayLiveApp/smil:senalcolombia.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Canal_24_Horas_TVE_logo.png", Canal 24h (TVE)
+https://rtvelivestreamv3.akamaized.net/rtvesec/canal24h_dvr.m3u8
+
+#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/RTVE_logo.svg", RTVE Internacional
+https://rtvelivestreamv3.akamaized.net/rtvesec/rtve_int_dvr.m3u8
+
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Telesur_logo_2020.svg", teleSUR
+https://live-hd-02.telesur.ultrabase.net/hls/live.m3u8
+
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/France_24_logo.svg", France 24 Español
+https://static.france24.com/live/F24_ES_HI_HLS/live_tv.m3u8
+
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Deutsche_Welle_Logo.svg", DW Español
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/BBC_World_News_2022.svg", BBC Mundo (YouTube)
+https://ythls.armelin.one/channel/UCFMJXr3szednS8cIKFUX4Vw.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Radio_Mitre_logo.svg", Radio Mitre Buenos Aires
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_MITRE_BA.mp3
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/BioBio_Logo.png", Radio BioBio Chile
+https://unlimited1-cl-isp.dps.live/biobio/biobio.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Radio_Nacional_de_España_logo_2019.svg", RNE Radio Nacional España
+https://rtvelivestreamv3.akamaized.net/rtvesec/rne_nacional_dvr.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Radio_Universidad_de_Chile_logo.png", Radio Universidad de Chile
+https://redirector.rudo.video/hls-radio/uchile/playlist.m3u8
